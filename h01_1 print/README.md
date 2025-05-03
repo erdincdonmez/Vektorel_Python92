@@ -1,1 +1,3 @@
 
+### 1.hafta : print
+Bu hafta print komutu ile...
