@@ -1,0 +1,31 @@
+print("cc dosyası/modulu içi")
+print("merhaba "*3)
+
+def menu1(): #definition/fonksiyon
+    print("╔═════════════════════╗")
+    # print("║\033[1;31;40m   VEKTOREL APP  \033[1;32;40m  ║")
+    print("║    VEKTOREL APP     ║")
+    print("║                     ║")
+    print("║  1-Hesap makinesi   ║")
+    print("║  2-Oyunlar          ║")
+    print("║  3-Çizimler         ║")
+    print("║  4-...              ║")
+    print("║                     ║")
+    print("║    Seçimiz nedir?   ║")
+    print("╚═════════════════════╝")
+
+def menu2(): #definition/fonksiyon
+    print("╔═════════════════════╗")
+    # print("║\033[1;31;40m   VEKTOREL APP  \033[1;32;40m  ║")
+    print("║    VEKTOREL APP222  ║")
+    print("║                     ║")
+    print("║  1-Hesap makinesi   ║")
+    print("║  2-Oyunlar          ║")
+    print("║  3-Çizimler         ║")
+    print("║  4-...              ║")
+    print("║                     ║")
+    print("║    Seçimiz nedir?   ║")
+    print("╚═════════════════════╝")
+
+# menu2()
+# menu1()
