@@ -4,4 +4,4 @@
 * print
 * input
 * if
----
+Deneme
